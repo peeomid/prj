@@ -203,6 +203,10 @@ No database. No server. No cloud. Just files you can read, back up, or pipe into
 | [mani](https://github.com/alajmo/mani) | Run commands across repos | prj focuses on scanning and reporting, not execution |
 | [gh-dash](https://github.com/dlvhdr/gh-dash) | GitHub PR/issue dashboard | gh-dash is GitHub-only; prj works on local repos |
 
+## Inspiration
+
+`prj` is a CLI port of [your-project-dashboard](https://github.com/aviflombaum/your-project-dashboard) by Avi Flombaum — a Rails app that scans local repos and shows a web dashboard. We loved the scanning and metadata extraction but wanted something lighter: no web server, no database, just a single binary you can run from the terminal.
+
 ## Requirements
 
 - Git (for repository scanning)
