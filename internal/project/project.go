@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Osimify/prj/internal/scanner"
+	"github.com/peeomid/prj/internal/scanner"
 )
 
 type Project struct {

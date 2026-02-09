@@ -1,4 +1,4 @@
-module github.com/Osimify/prj
+module github.com/peeomid/prj
 
 go 1.21
 

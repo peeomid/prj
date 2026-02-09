@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Osimify/prj/internal/scanner"
+	"github.com/peeomid/prj/internal/scanner"
 )
 
 // InferState determines project status based on commit recency, TODOs, and commit messages.

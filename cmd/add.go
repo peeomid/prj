@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/Osimify/prj/internal/config"
+	"github.com/peeomid/prj/internal/config"
 	"github.com/spf13/cobra"
 )
 

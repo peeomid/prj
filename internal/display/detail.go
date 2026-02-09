@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/Osimify/prj/internal/project"
+	"github.com/peeomid/prj/internal/project"
 )
 
 // PrintDetail renders a full detail view for a single project.

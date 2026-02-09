@@ -3,11 +3,11 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/Osimify/prj/internal/config"
-	"github.com/Osimify/prj/internal/display"
-	"github.com/Osimify/prj/internal/project"
-	"github.com/Osimify/prj/internal/scanner"
-	"github.com/Osimify/prj/internal/store"
+	"github.com/peeomid/prj/internal/config"
+	"github.com/peeomid/prj/internal/display"
+	"github.com/peeomid/prj/internal/project"
+	"github.com/peeomid/prj/internal/scanner"
+	"github.com/peeomid/prj/internal/store"
 	"github.com/spf13/cobra"
 )
 

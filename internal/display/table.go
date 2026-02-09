@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Osimify/prj/internal/project"
+	"github.com/peeomid/prj/internal/project"
 	"github.com/rodaine/table"
 )
 

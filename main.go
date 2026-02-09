@@ -1,6 +1,6 @@
 package main
 
-import "github.com/Osimify/prj/cmd"
+import "github.com/peeomid/prj/cmd"
 
 func main() {
 	cmd.Execute()

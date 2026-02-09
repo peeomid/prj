@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/Osimify/prj/internal/display"
-	"github.com/Osimify/prj/internal/store"
+	"github.com/peeomid/prj/internal/display"
+	"github.com/peeomid/prj/internal/store"
 	"github.com/spf13/cobra"
 )
 

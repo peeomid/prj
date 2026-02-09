@@ -5,7 +5,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/Osimify/prj/internal/project"
+	"github.com/peeomid/prj/internal/project"
 )
 
 // PrintSummary renders a status report with counts and highlights.

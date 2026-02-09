@@ -5,8 +5,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/Osimify/prj/internal/config"
-	"github.com/Osimify/prj/internal/project"
+	"github.com/peeomid/prj/internal/config"
+	"github.com/peeomid/prj/internal/project"
 )
 
 func Path() string {
